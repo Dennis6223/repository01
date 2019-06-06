@@ -1,0 +1,27 @@
+
+h2{
+    color:yellowgreen;
+    text-align:center;
+}
+p{
+    color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+
+border: 1px solid;
+padding-inline: 10px;
+margin: 20px;
+wid  
+border-collapse: collapse;  /*removes the border on each cell*/
+}
+
+th{
+    color: darkgreen;
+    border: 2px solid;
+}
+td{
+    color: dimgray;
+    border: 1px solid;
+    padding: 5px 5px 5px 5px;
+}
